@@ -60,6 +60,7 @@ const Close = styled.span`
 
 function JobModal() {
 
+  
   const [love, setLove] = useState('')
   // get api
   // getLove()
